@@ -7,5 +7,6 @@ public class hello {
 		this.msg.append(msg);
 		msg.append("hello");
 		msg.append("hi");
+		msg.append("hola");
 	}
 }
