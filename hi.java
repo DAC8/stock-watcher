@@ -5,5 +5,6 @@ public class hello {
 
 	public hello(String msg) {
 		this.msg.append(msg);
+		msg.append("hi");
 	}
 }
